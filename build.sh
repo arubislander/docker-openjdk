@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build -t arubislander/openjdk .
+docker build -t arubislander/armhf-openjdk .
 
